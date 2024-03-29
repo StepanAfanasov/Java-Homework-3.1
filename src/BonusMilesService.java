@@ -6,6 +6,5 @@ public class BonusMilesService {
         }
         return miles;
     }
-
-    }
+}
 
